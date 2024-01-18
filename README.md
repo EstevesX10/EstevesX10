@@ -51,9 +51,10 @@
     </a>&nbsp;
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a> 
+    </a>
 </p>
 
+<br/>
 <br/>
 <br/>
 
@@ -62,5 +63,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=estevesx10&show_icons=true&locale=en&layout=compact&theme=dark" alt="estevesx10" />
     <br/>
     <br/>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EstevesX10&theme=dark" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EstevesX10&theme=dark" height="180em" border="1"/>
 </div>
