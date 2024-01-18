@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-<img align="right" alt="Artificial Intelligence" width="400" src="./Assets/AI.gif" />
+<img align="right" alt="Artificial Intelligence" width="210" src="./Assets/AI.gif" />
 
 <h3 align="left">Connect with me:</h3>
 
