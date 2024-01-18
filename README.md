@@ -14,9 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=estevesx10&show_icons=true&locale=en&layout=compact" alt="estevesx10" /></p>
 
-<br/>
-<br/>
-<br/>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estevesx10&" alt="estevesx10" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=estevesx10&" alt="estevesx10" /></p>
