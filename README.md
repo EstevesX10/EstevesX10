@@ -1,6 +1,6 @@
 [![MasterHead](./Assets/Brain-Banner.png)](https://github.com/EstevesX10)
 <h1 align="center">Hi! I'm Gonçalo Esteves</h1>
-<h3 align="center">A Student of Artificial Intelligence & Data Science at FCUP</h3>
+<h2 align="center">A Student of Artificial Intelligence & Data Science at FCUP</h2>
 
 <br/>
 <br/>
