@@ -1,6 +1,6 @@
 [![MasterHead](./Assets/Brain-Banner-New.png)](https://github.com/EstevesX10)
 [![MasterHead](./Assets/Brain-Banner.png)](https://github.com/EstevesX10)
-<h1 align="center">Hi 👋, I'm Gonçalo Esteves</h1>
+<h1 align="center">Hi! I'm Gonçalo Esteves</h1>
 <h3 align="center">A Student of Artificial Intelligence & Data Science at FCUP</h3>
 
 <img align="right" alt="Artificial Intelligence" width="400" src="./Assets/AI.gif" />
@@ -50,7 +50,11 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a> 
 </p>
-<p>
+
+<br/>
+
+<h2>Github Stats</h2>
+<div align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=estevesx10&show_icons=true&locale=en&layout=compact&theme=dark" alt="estevesx10" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EstevesX10&theme=dark" height="180em" />
-</p>
+</div>
