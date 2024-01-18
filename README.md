@@ -2,11 +2,9 @@
 <h1 align="center">Hi! I'm Gonçalo Esteves</h1>
 <h3 align="center">📝 Student of Artificial Intelligence & Data Science at FCUP</h3>
 
-<br/>
-<br/>
-
 <div align="center">
     <img align="center" alt="Artificial Intelligence" width="210" src="./Assets/AI.gif" />
+    <h3 align="center">📝 Student of Artificial Intelligence & Data Science at FCUP</h3>
     <h3 align="center">💬 Connect with me:</h3>
     <div align="center">
         <a href="https://github.com/EstevesX10" target="_blank">
@@ -47,9 +45,6 @@
         </a>
     </p>
     </div>
-
-<br/>
-<br/>
 
 <h2 align="center">👨‍💻 Github Stats</h2>
 <div align="center">
