@@ -1,7 +1,11 @@
 [![MasterHead](./Assets/Brain-Banner.png)](https://github.com/EstevesX10)
-<h1 align="center">Hi! I'm Gonçalo Esteves</h1>
+<!-- <h1 align="center">Hi! I'm Gonçalo Esteves</h1> -->
 
-
+<div align="center">
+    <font size="5" align="center">
+        <b>Hi! I'm Gonçalo Esteves</b>
+    </font>
+</div>
 
 <div align="center">
     <img align="center" alt="Artificial Intelligence" width="210" src="./Assets/AI.gif" />
