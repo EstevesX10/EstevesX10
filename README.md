@@ -9,7 +9,7 @@
     </a>
 </div>
 <div align="center">
-    <img align="center" alt="Artificial Intelligence" width="210" src="./Assets/AI.gif" />
+    <img align="center" alt="Artificial Intelligence" width="30%" height="30%" src="./Assets/AI.gif" />
     <h3 align="center">📔 Student of Artificial Intelligence & Data Science at FCUP</h3>
     <h2></h2>
     <h3 align="center">💬 Connect with me:</h3>
