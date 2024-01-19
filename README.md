@@ -1,11 +1,10 @@
 [![MasterHead](./Assets/Brain-Banner.png)](https://github.com/EstevesX10)
 <!-- <h1 align="center">Hi! I'm Gonçalo Esteves</h1> -->
 <h2></h2>
-<h3 align="center">📍 Hi! I'm Gonçalo Esteves</h3>
-<h3 align="center">♠️ Hi! I'm Gonçalo Esteves</h3>
-<h3 align="center">🌠 Hi! I'm Gonçalo Esteves</h3>
-<h3 align="center">🚩 Hi! I'm Gonçalo Esteves</h3>
 <div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hi!+I'm+Gon%C3%A7alo+Esteves" alt="Typing SVG" />
+    </a>
     <img align="center" alt="Artificial Intelligence" width="210" src="./Assets/AI.gif" />
     <h3 align="center">📔 Student of Artificial Intelligence & Data Science at FCUP</h3>
     <h2></h2>
@@ -52,7 +51,7 @@
     </div>
 
 <h2></h2>
-<h3 align="center">👨‍💻 Github Stats</h3>
+<h3 align="center">👨‍💻 My Github Stats</h3>
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=estevesx10&show_icons=true&locale=en&layout=compact&theme=dark" alt="estevesx10" />
     <br/>
