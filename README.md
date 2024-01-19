@@ -1,7 +1,10 @@
 [![MasterHead](./Assets/Brain-Banner.png)](https://github.com/EstevesX10)
 <!-- <h1 align="center">Hi! I'm Gonçalo Esteves</h1> -->
 <h2></h2>
-<h3 align="center">📍 ♠️ 🌠 🚩 Hi! I'm Gonçalo Esteves</h3>
+<h3 align="center">📍 Hi! I'm Gonçalo Esteves</h3>
+<h3 align="center">♠️ Hi! I'm Gonçalo Esteves</h3>
+<h3 align="center">🌠 Hi! I'm Gonçalo Esteves</h3>
+<h3 align="center">🚩 Hi! I'm Gonçalo Esteves</h3>
 <div align="center">
     <img align="center" alt="Artificial Intelligence" width="210" src="./Assets/AI.gif" />
     <h3 align="center">📔 Student of Artificial Intelligence & Data Science at FCUP</h3>
