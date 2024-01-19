@@ -5,6 +5,7 @@
 <div align="center">
     <img align="center" alt="Artificial Intelligence" width="210" src="./Assets/AI.gif" />
     <h3 align="center">📝 Student of Artificial Intelligence & Data Science at FCUP</h3>
+    <h2></h2>
     <h2 align="center">💬 Connect with me:</h2>
     <div align="center">
         <a href="https://github.com/EstevesX10" target="_blank">
@@ -17,7 +18,7 @@
             <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
         </a>  
     </div>
-    <h3 align="center">🛠 Languages and Tools:</h3>
+    <h2 align="center">🛠 Languages and Tools:</h2>
     <p align="center">
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
