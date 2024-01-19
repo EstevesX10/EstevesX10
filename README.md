@@ -2,7 +2,7 @@
 <!-- <h1 align="center">Hi! I'm Gonçalo Esteves</h1> -->
 
 <div align="center">
-    <font size="5" align="center">
+    <font size="5">
         <b>Hi! I'm Gonçalo Esteves</b>
     </font>
 </div>
