@@ -1,7 +1,10 @@
 <!-- Website for Design Ideas: 
      https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969 -->
 
-[![MasterHead](./Assets/Brain-Banner.png)](https://github.com/EstevesX10)
+<div align="center">
+    <img src="./Assets/Brain-Banner.png" width="90%" height="90%"/>
+</div>
+
 <h2></h2>
 <div align="center">
     <a href="https://git.io/typing-svg">
