@@ -2,7 +2,9 @@
      https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969 -->
 
 <div align="center">
-    <img src="./Assets/Brain-Banner.png" width="90%" height="90%"/>
+    <a href="https://github.com/EstevesX10">
+        <img src="./Assets/Brain-Banner.png" width="80%" height="80%"/>
+    </a>
 </div>
 
 <h2></h2>
