@@ -3,7 +3,7 @@
 
 <div align="center">
     <a href="https://github.com/EstevesX10">
-        <img src="./Assets/Brain-Banner.png" width="80%" height="80%"/>
+        <img src="./Assets/Brain-Banner.png" width="85%" height="85%"/>
     </a>
 </div>
 
@@ -14,7 +14,9 @@
     </a>
 </div>
 <div align="center">
-    <img align="center" alt="Artificial Intelligence" width="23%" height="23%" src="./Assets/AI.gif" />
+    <a href="https://github.com/EstevesX10">
+        <img align="center" alt="Artificial Intelligence" width="23%" height="23%" src="./Assets/AI.gif" />
+    </a>
     <h3 align="center">📔 Student of Artificial Intelligence & Data Science at FCUP</h3>
     <h2></h2>
     <h3 align="center">💬 Connect with me:</h3>
