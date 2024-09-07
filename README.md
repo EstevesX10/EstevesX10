@@ -64,6 +64,9 @@
 <h2></h2>
 <h3 align="center">👨‍💻 My Github Stats</h3>
 <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=EstevesX10&label=PROFILE+VIEWS&style=for-the-badge&color=000000&abbreviated=true"/>
+    <br/>
+    <br/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=estevesx10&show_icons=true&locale=en&layout=compact&theme=dark" alt="estevesx10" />
     <br/>
     <br/>
