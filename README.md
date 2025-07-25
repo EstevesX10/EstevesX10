@@ -15,7 +15,7 @@
 </div>
 <div align="center">
     <a href="https://github.com/EstevesX10">
-        <img align="center" alt="Artificial Intelligence" height="250%" src="./Assets/AI.gif" />
+        <img align="center" alt="Artificial Intelligence" width="20%" src="./Assets/AI.gif" />
     </a>
     <h3 align="center">📔 Student of Artificial Intelligence & Data Science at FCUP</h3>
     <h2></h2>
